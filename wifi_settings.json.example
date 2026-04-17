@@ -1,0 +1,5 @@
+{
+    "wifi_name": "YOUR_WIFI_SSID",
+    "password": "YOUR_WIFI_PASSWORD",
+    "thing": "your-dweet-thing-name"
+}
